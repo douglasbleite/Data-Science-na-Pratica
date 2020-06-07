@@ -9,3 +9,5 @@
 
 ## Projetos:
 Veja os tutoriais publicados:
+
+* Análise dos dados do Airbnb (Rio de Janeiro) - https://bit.ly/2UkxagJ
