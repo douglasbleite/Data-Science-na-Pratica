@@ -1,2 +1,3 @@
-# data_science_na_pratica
-Meu repositório de Data Science
+<p align="center">
+  <img src="banner.png" >
+</p>
